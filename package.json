@@ -1,0 +1,30 @@
+{
+  "name": "css-resolution-units",
+  "version": "0.0.0",
+  "description": "List of CSS resolution units.",
+  "main": "index.json",
+  "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com)",
+  "license": "MIT",
+  "scripts": {
+    "test": "jshint index.json"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "css",
+    "resolution",
+    "units"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksy/css-resolution-units.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niksy/css-resolution-units/issues"
+  },
+  "homepage": "https://github.com/niksy/css-resolution-units#readme"
+}
